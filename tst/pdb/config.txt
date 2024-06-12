@@ -1,0 +1,16 @@
+Template=1b.ent
+CA=0
+PI_steps=1
+OutPDB=0
+Threads=6
+OnlyBackbone=0
+pdbext=pdb
+
+Cluster=cluster.txt
+Sites=sites.txt
+Matrix=dist_matr.txt
+Output=outclust.txt
+Level=
+Number=5
+
+

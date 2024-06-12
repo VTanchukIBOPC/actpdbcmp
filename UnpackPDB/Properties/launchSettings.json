@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnpackPDB": {
+      "commandName": "Project",
+      "workingDirectory": "..\\tst\\unpack"
+    }
+  }
+}
